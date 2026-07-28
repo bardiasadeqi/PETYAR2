@@ -1,155 +1,523 @@
+# 🐾 PETYAR MASTER BLUEPRINT v2.0
 
-# PETYAR MASTER BLUEPRINT
-
-Version: 1.0
-
-Last Updated: July 2026
-
----
-
-# 1. PROJECT OVERVIEW
-
-## Project Name
+# شعار پروژه
 
 PETYAR
+The Smart Pet Ecosystem of Iran
 
----
+هدف:
+ساخت کامل‌ترین اکوسیستم خدمات حیوانات خانگی ایران.
 
-## Mission
+--------------------------------------------------
 
-PETYAR is building the most trusted and intelligent pet ecosystem in Iran.
+# ماموریت پروژه
 
-The platform connects pet owners with verified caregivers, veterinarians, shelters, pet shops, trainers, groomers and other pet service providers in one secure platform.
+ایجاد یک پلتفرم که تمام نیازهای صاحبان حیوانات، دامپزشکان، پناهگاه‌ها، مربیان، آرایشگران، پت‌شاپ‌ها و سرمایه‌گذاران را در یک سیستم واحد پوشش دهد.
 
-Our goal is to improve the quality of life of pets while making pet ownership easier, safer and more transparent.
+--------------------------------------------------
 
----
+# کاربران سیستم
 
-# Vision
+✔ صاحبان حیوانات
 
-Become the largest digital ecosystem for pets in the Middle East.
+✔ پناهگاه‌ها
 
-PETYAR should become the first place every pet owner visits for:
+✔ دامپزشکان
 
-- Finding caregivers
-- Veterinary services
-- Pet adoption
-- Lost & Found
-- Pet education
-- Nutrition
-- Health records
-- Events
-- Shopping
-- AI assistance
+✔ پت شاپ‌ها
 
----
+✔ مربیان
 
-# Core Values
+✔ آرایشگران
 
-• Trust
+✔ پانسیون‌ها
 
-• Safety
+✔ پرورش‌دهندگان مجاز
 
-• Transparency
+✔ سرمایه‌گذاران
 
-• Animal Welfare
+✔ اسپانسرها
 
-• Innovation
+✔ مدیران PETYAR
 
-• Community
+✔ ناظران تاییدشده
 
----
+--------------------------------------------------
 
-# Target Users
+# صفحات اصلی سایت
 
-### Pet Owners
+Home
 
-People looking for trusted services for their pets.
+About
 
-### Caregivers
+Services
 
-Verified individuals who provide temporary pet care.
+Lost Pets
 
-### Veterinarians
+Found Pets
 
-Licensed veterinary clinics and doctors.
+Adoption
 
-### Animal Shelters
+Shelters
 
-Registered rescue organizations and shelters.
+Veterinarians
 
-### Pet Shops
+Pet Shops
 
-Stores selling pet products.
+Trainers
 
-### Groomers
+Groomers
 
-Pet grooming specialists.
+Events
 
-### Trainers
+Competitions
 
-Dog and cat behavior specialists.
+Blog
 
-### Future Partners
+Recipes
 
-Government organizations
+AI Center
 
-Municipalities
-
-Veterinary Organization
+Donate
 
 Sponsors
 
-Insurance companies
+Contact
 
-NGOs
+--------------------------------------------------
 
----
+# صفحه اصلی
 
-# Long Term Vision
+Hero حرفه‌ای
 
-PETYAR is NOT just another marketplace.
+جستجوی سریع
 
-It is a complete digital infrastructure for pet care.
+دکمه ثبت حیوان گمشده
 
-Future products include:
+دکمه ثبت حیوان پیدا شده
 
-• Mobile Application
+ثبت برای سرپرستی
 
-• AI Assistant
+آخرین حیوانات
 
-• Smart Health Records
+دامپزشکان نزدیک
 
-• Insurance Platform
+پناهگاه‌های تاییدشده
 
-• Adoption Network
+پت شاپ‌ها
 
-• Veterinary Network
+خدمات ویژه
 
-• Nutrition System
+بلاگ
 
-• Events Platform
+آمار سایت
 
-• Education Platform
+لوگوی اعتمادها
 
-• Business Dashboard
+اسلایدر تبلیغات
 
-• Government Dashboard
+اسپانسرها
 
-• Investment Portal
+--------------------------------------------------
 
----
+# پنل صاحب حیوان
 
-# Development Principles
+ثبت حیوان
 
-Every feature must satisfy at least one of these goals:
+پرونده پزشکی
 
-Increase Trust
+واکسیناسیون
 
-Increase Safety
+یادآوری دارو
 
-Improve User Experience
+یادآوری واکسن
 
-Help Animal Welfare
+ثبت گمشدن
 
-Generate Sustainable Revenue
+ثبت پیدا شدن
+
+درخواست سرپرستی
+
+سوابق غذا
+
+سوابق وزن
+
+سوابق بیماری
+
+کیف پول
+
+امتیاز
+
+تیکت
+
+--------------------------------------------------
+
+# پنل پناهگاه
+
+ثبت حیوان
+
+مدیریت حیوانات
+
+درخواست سرپرستی
+
+بررسی مدارک متقاضی
+
+قرارداد واگذاری
+
+کمک‌های مالی
+
+گزارش عملکرد
+
+--------------------------------------------------
+
+# پنل دامپزشک
+
+رزرو نوبت
+
+مدیریت بیماران
+
+نسخه
+
+آزمایش
+
+پرونده پزشکی
+
+ویزیت آنلاین
+
+--------------------------------------------------
+
+# پنل پت شاپ
+
+مدیریت محصولات
+
+مدیریت سفارش
+
+کد تخفیف
+
+تبلیغات
+
+--------------------------------------------------
+
+# پنل مربیان
+
+ثبت دوره
+
+ثبت کلاس
+
+رزرو آنلاین
+
+--------------------------------------------------
+
+# پنل آرایشگران
+
+رزرو
+
+نمونه کار
+
+مدیریت مشتری
+
+--------------------------------------------------
+
+# پنل مدیر
+
+مدیریت کاربران
+
+مدیریت تبلیغات
+
+مدیریت اسپانسرها
+
+مدیریت مسابقات
+
+مدیریت ایونت‌ها
+
+مدیریت گزارش‌ها
+
+مدیریت پرداخت‌ها
+
+مدیریت کمک‌های مالی
+
+--------------------------------------------------
+
+# سیستم گمشدن حیوان
+
+ثبت کامل
+
+عکس
+
+آخرین موقعیت
+
+نقشه
+
+جایزه
+
+اشتراک سریع
+
+--------------------------------------------------
+
+# سیستم پیدا شدن حیوان
+
+ثبت مشخصات
+
+هوش مصنوعی تطبیق
+
+تماس با مالک
+
+--------------------------------------------------
+
+# سیستم سرپرستی
+
+ثبت درخواست
+
+احراز هویت
+
+بررسی مدارک
+
+امتیاز متقاضی
+
+تایید نهایی
+
+قرارداد
+
+تحویل حیوان
+
+پیگیری
+
+--------------------------------------------------
+
+# قوانین واگذاری
+
+تمام واگذاری‌ها دارای قرارداد هستند.
+
+امکان بازپس‌گیری حیوان در صورت بدرفتاری وجود دارد.
+
+پناهگاه حق نظارت دوره‌ای دارد.
+
+تمام بندهای قانونی داخل قرارداد ثبت می‌شوند.
+
+--------------------------------------------------
+
+# مسابقات
+
+زیباترین حیوان
+
+باهوش‌ترین حیوان
+
+عکس ماه
+
+ویدئو ماه
+
+رأی‌گیری
+
+جوایز اسپانسرها
+
+--------------------------------------------------
+
+# ایونت‌ها
+
+همایش
+
+دورهمی
+
+واکسیناسیون رایگان
+
+روز سرپرستی
+
+کارگاه آموزشی
+
+--------------------------------------------------
+
+# سرمایه‌گذاران
+
+ثبت اسپانسر
+
+مدیریت تبلیغات
+
+بنر اختصاصی
+
+اسلایدر تبلیغات
+
+صفحه معرفی اسپانسر
+
+--------------------------------------------------
+
+# تبلیغات
+
+اسلایدر صفحه اصلی
+
+تبلیغات بین صفحات
+
+تبلیغات هدفمند
+
+تبلیغات کسب‌وکارها
+
+--------------------------------------------------
+
+# سیستم کمک مالی
+
+کمک به پناهگاه
+
+کمک به حیوان خاص
+
+کمک ناشناس
+
+گزارش مالی شفاف
+
+--------------------------------------------------
+
+# AI CENTER
+
+تشخیص بیماری
+
+پیشنهاد غذا
+
+چت هوشمند
+
+پیشنهاد نژاد
+
+پیشنهاد دامپزشک
+
+پیشنهاد مربی
+
+پیشنهاد غذای مناسب
+
+--------------------------------------------------
+
+# غذای خانگی
+
+امروز برای حیوانم چی درست کنم؟
+
+غذا بر اساس:
+
+سن
+
+وزن
+
+نژاد
+
+بیماری
+
+آلرژی
+
+رژیم
+
+--------------------------------------------------
+
+# Recipes
+
+غذاهای خانگی
+
+غذاهای رژیمی
+
+غذاهای درمانی
+
+ویدئو آموزشی
+
+--------------------------------------------------
+
+# بلاگ
+
+آموزش
+
+سلامت
+
+رفتارشناسی
+
+تغذیه
+
+اخبار
+
+--------------------------------------------------
+
+# سیستم امتیاز
+
+Badge
+
+Level
+
+Achievement
+
+--------------------------------------------------
+
+# کیف پول
+
+پرداخت
+
+بازگشت وجه
+
+اعتبار
+
+--------------------------------------------------
+
+# اعلان‌ها
+
+Notification
+
+SMS
+
+Email
+
+Push Notification
+
+--------------------------------------------------
+
+# SEO
+
+Schema
+
+Meta Tags
+
+Open Graph
+
+Sitemap
+
+Robots
+
+Lazy Loading
+
+Image Optimization
+
+Core Web Vitals
+
+--------------------------------------------------
+
+# امنیت
+
+JWT
+
+Role Based Access
+
+2FA
+
+Captcha
+
+Encryption
+
+--------------------------------------------------
+
+# اپلیکیشن آینده
+
+Android
+
+iOS
+
+--------------------------------------------------
+
+# نسخه‌های آینده
+
+PETYAR Insurance
+
+PETYAR Pharmacy
+
+PETYAR Marketplace
+
+PETYAR Academy
+
+PETYAR Rescue
+
+PETYAR Foundation
+
+--------------------------------------------------
+
+# چشم‌انداز
+
+PETYAR باید به مرجع شماره یک خدمات حیوانات خانگی در ایران تبدیل شود.
